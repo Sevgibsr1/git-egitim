@@ -1,1 +1,4 @@
-"bu satr da main branchinden geldi" 
+<<<<<<< HEAD
+"bu sat r da main branchinden geldi" 
+=======
+
