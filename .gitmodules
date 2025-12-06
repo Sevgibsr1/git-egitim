@@ -1,0 +1,3 @@
+[submodule "external/git-egitim-2"]
+	path = external/git-egitim-2
+	url = https://github.com/Sevgibsr1/git-egitim-2.git
