@@ -1,1 +1,1 @@
-"master tarafnda yeni bir satr" 
+"master satr 1" 
