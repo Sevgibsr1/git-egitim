@@ -1,2 +1,3 @@
 "Merhaba Git" 
 "feature branch de§iŸikli§i" 
+"revert test satr" 
