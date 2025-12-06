@@ -2,3 +2,4 @@
 "bu sat r da main branchinden geldi" 
 =======
 
+"feature-1 branch'inden selam!" 
